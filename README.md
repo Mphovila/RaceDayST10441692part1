@@ -21,5 +21,4 @@ Database
 The database was created using SQL Server and tested in SQL Server Management Studio.
 
 ## Video Presentation
-
-Add your unlisted YouTube video link here.
+https://youtu.be/tqVxa3l1X4I
